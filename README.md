@@ -22,5 +22,10 @@ To understand and apply feature engineering techniques including encoding catego
 - Preprocessed dataset (`adult_income_processed.csv`)
 - Jupyter Notebook with complete workflow
 
+### 📁 Dataset Note
+The processed dataset (`adult_income_processed.csv`) was generated during preprocessing.
+Due to GitHub’s file size limit (>25MB), it is not uploaded.
+The notebook contains all steps required to regenerate the dataset.
+
 ### ✅ Outcome
 Gained strong understanding of feature engineering concepts and their impact on machine learning models.
